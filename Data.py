@@ -33,13 +33,7 @@ class Data:
 
     # Help Message
     HELP = """
-You Really Need Help ?!?!?!?!
-
-Just send an image. Rest is on me.
-
-Note : You can send any amount of images at once and it will work with same speed and accuracy.
-
-More features in development. Keep track by joining @StarkBots.
+❄️ Just Send Image To Detect Text and Get Started
     """
 
     # About Message
